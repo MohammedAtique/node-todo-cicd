@@ -13,8 +13,9 @@ Run these commands:
 
 `node app.js`
 
-or Run by docker compose by luffy
+or Run by docker compose
 
 test
 test2
+test3
 
